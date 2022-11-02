@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mkwe
+- 👋 Hi, I’m Nkwe
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning microservices
 - 💞️ I’m looking to collaborate on Java projects
