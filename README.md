@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nkwe
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning keycloak
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me nkwejustice@gmail.com
 
